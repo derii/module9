@@ -1,11 +1,14 @@
-header, nav, section, article, aside, footer {
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
    display:block;
 }
 .about-wrapper {
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#745083', endColorstr='#322539',GradientType=0 );
 }
+.about__item {
+	margin-right: 78px;
+}
 .item__icon3 {
-	margin-right: 0;
+	margin-right: 0px;
 }
 .content-bottom__article--last {
 	margin-right: 0;
